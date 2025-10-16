@@ -1,0 +1,3 @@
+Act as a native English speaker. Rephrase the below sentence into a more positive, neutral tone sentence.
+" {{Sentence}} "
+The rephrase should be crisp and should be in a positive tone
