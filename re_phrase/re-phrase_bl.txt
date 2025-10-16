@@ -1,0 +1,7 @@
+Act as a pre-sales person speaking with executive management.
+Rephrase the below sentence into a more positive tone and business context sentence.
+
+" {{Sentence}} "
+
+The rephrase should be crisp and should be understandable by business users
+
